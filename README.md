@@ -22,7 +22,7 @@ This tool helps you estimate property prices based on features such as number of
 
 ## 📁 Data Preparation
 
-Fill out your sales data in:
+You need to spend some manual efforts collecing similar sales. Fill out your collected data in the following spreadsheet:
 
 ```
 data/similar_sales.xlsx
@@ -77,5 +77,10 @@ $1,174,627_
 ---
 
 
-### Contibuting:
+## 💡 Contibuting:
 If you want to contribute improvements to this, please raise a PR.
+
+---
+
+## 📄 License:
+This project is licensed under the [MIT License](LICENSE).
