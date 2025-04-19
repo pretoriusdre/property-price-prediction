@@ -11,7 +11,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 class PropertyPricePredictor:
     
     EPOCH_DATE = datetime(2000, 1, 1)  # Used to convert dates into integer number of days since
-    FEATURES_TO_USE = ['bed', 'bath', 'car', 'land', 'days_since_epoch', 'desirability_score']
+    FEATURES_TO_USE = ['bed', 'bath', 'car', 'land', 'days_since_epoch', 'desirability']
 
     def __init__(self, data_path=None):
         if not data_path:
