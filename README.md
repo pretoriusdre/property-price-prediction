@@ -85,15 +85,15 @@ predictor.get_sensitivities(model_name='suburb1')
 
 Output:
 
-    ```
-    2025-04-27 10:57:45,629 - INFO - Sensitivities for suburb1:
-    2025-04-27 10:57:45,629 - INFO - Impact of ± 1 bedroom: $34,110
-    2025-04-27 10:57:45,630 - INFO - Impact of ± 1 bathroom: $63,929
-    2025-04-27 10:57:45,630 - INFO - Impact of ± 1 car bay: $-5,355
-    2025-04-27 10:57:45,631 - INFO - Impact of ± 100 sqm land: $56,033
-    2025-04-27 10:57:45,632 - INFO - Impact of ± 1 month: $9,754
-    2025-04-27 10:57:45,632 - INFO - Impact of ± 1 desirability point: $66,572
-    ```
+```
+2025-04-27 10:57:45,629 - INFO - Sensitivities for suburb1:
+2025-04-27 10:57:45,629 - INFO - Impact of ± 1 bedroom: $34,110
+2025-04-27 10:57:45,630 - INFO - Impact of ± 1 bathroom: $63,929
+2025-04-27 10:57:45,630 - INFO - Impact of ± 1 car bay: $-5,355
+2025-04-27 10:57:45,631 - INFO - Impact of ± 100 sqm land: $56,033
+2025-04-27 10:57:45,632 - INFO - Impact of ± 1 month: $9,754
+2025-04-27 10:57:45,632 - INFO - Impact of ± 1 desirability point: $66,572
+```
 
 ## 💡 Contibuting:
 If you want to contribute improvements to this, please raise a PR.
