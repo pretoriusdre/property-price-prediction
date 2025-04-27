@@ -27,7 +27,7 @@ You need to spend some manual efforts collecing similar sales. Fill out your col
 ```
 data/similar_sales.xlsx
 ```
-![alt text](image.png)
+![Example data input spreadsheet](image.png)
 
 Each row should represent a past sale and include the following columns:
 
