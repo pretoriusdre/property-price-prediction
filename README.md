@@ -8,6 +8,8 @@ This tool helps you estimate property prices based on features such as number of
 
 ## 📦 Installation
 
+This tool is written in **Python**.
+
 1. **Install [Poetry](https://python-poetry.org/docs/)**  
    Poetry is used for dependency management and packaging.
 
