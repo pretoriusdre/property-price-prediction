@@ -1,4 +1,4 @@
-# 🏡 property-price-prediction
+# property-price-prediction
 
 Predict property prices using linear regression trained on similar past sales.
 
@@ -6,7 +6,7 @@ This tool helps you estimate property prices based on features such as number of
 
 ---
 
-## 📦 Installation
+## Installation
 
 This tool is written in **Python**.
 
@@ -22,7 +22,7 @@ This tool is written in **Python**.
     You can use another tool such as pip to install the dependencies listed in pyproject.toml
 ---
 
-## 📁 Data Preparation
+## Data Preparation
 
 You need to spend some manual efforts collecing similar sales. Fill out your collected data in the following spreadsheet:
 
@@ -47,7 +47,7 @@ Each row should represent a past sale and include the following columns:
 
 ---
 
-## 📊 Making Predictions
+## Making Predictions
 
 You can run predictions via the included Jupyter Notebook:
 
@@ -97,10 +97,10 @@ Output:
 2025-04-27 10:57:45,632 - INFO - Impact of ± 1 desirability point: $66,572
 ```
 
-## 💡 Contibuting:
+## Contibuting:
 If you want to contribute improvements to this, please raise a PR.
 
 ---
 
-## 📄 License:
+## License:
 This project is licensed under the [MIT License](LICENSE).
