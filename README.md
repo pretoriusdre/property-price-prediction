@@ -10,14 +10,15 @@ This tool helps you estimate property prices based on features such as number of
 
 This tool is written in **Python**.
 
-1. **Install [Poetry](https://python-poetry.org/docs/)**  
-   Poetry is used for dependency management and packaging.
+1. **Install [UV](https://docs.astral.sh/uv/getting-started/installation/)**  
+   UV is used for dependency management and packaging.
 
 2. **Install dependencies**  
    In the project root directory, run:
 
    ```bash
-   poetry install
+   uv venv
+   uv pip install .
    ```
     You can use another tool such as pip to install the dependencies listed in pyproject.toml
 ---
